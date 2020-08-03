@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's good homie ya feel me</title>
+    <style>
+        .Mario{
+            background: pink;
+        }
+        .Luigi{
+            background: rebeccapurple;
+        }
+        .empuja{
+            background: salmon;
+        }
+    </style>
+</head>
+<body>
+    <div class="Mario">
+        <P>mAMA mIA</P>
+        <button class="empuja">PressMe</button>
+    </div>
+    <div class="Luigi">
+        <P>Padre compadre!</P>
+        <button class="empuja">PressMe</button>
+    </div>
+</body>
+</html>
